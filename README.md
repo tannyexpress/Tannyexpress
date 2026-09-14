@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Tanny_Express_V8_Complete/
+├── backend/
+├── database/
+├── frontend/
+├── docker-compose.yml
+├── README.md
+└── SERVER_SETUP.md
